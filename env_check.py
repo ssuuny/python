@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Script Name		: env_check.py
 # Author				: Craig Richards
 # Created				: 14th May 2012
